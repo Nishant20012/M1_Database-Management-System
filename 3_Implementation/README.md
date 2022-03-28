@@ -1,3 +1,3 @@
 #Mini Project
 
-*Mini Projwct of Database-Management-System
+*Mini Project of Database-Management-System
